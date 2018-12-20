@@ -26,7 +26,7 @@ In return it paid off, many times with valuable experience or good relationships
 
 ## Education
 
-#### Makers Academy (November 2018 to end_date)
+#### Makers Academy (November 2018 to March 2019)
 
 - Curious and passionate about code.
 - Fast, independent learner
