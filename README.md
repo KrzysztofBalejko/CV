@@ -1,6 +1,5 @@
 ## Krzysztof Balejko - Junior Developer looking for new challenges
 
-## About me
 
 I’m a passion driven and hardworking individual with strong analytical and problem-solving skills built on solid 7 years of industry experience in finance.
 I had an opportunity to team up with highly skilled professionals from all over the world to work on various interesting projects. Some of these include Yardi software implementation, various system upgrades and data migration.
