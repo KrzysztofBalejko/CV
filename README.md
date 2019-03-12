@@ -1,41 +1,52 @@
-## Krzysztof Balejko
+## Krzysztof Balejko - Junior Developer looking for new challenges
 
-I’m a passion driven and hardworking individual with strong analytical and problem-solving skills built on solid 7 years of industry experience in finance and accounting.
-During the day I was working for real estate companies as well as some of the top hotel brands and global corporations. At night, as a member of Association of Accounting Technicians I was studying towards technical exams.
+## About me
+
+I’m a passion driven and hardworking individual with strong analytical and problem-solving skills built on solid 7 years of industry experience in finance.
 I had an opportunity to team up with highly skilled professionals from all over the world to work on various interesting projects. Some of these include Yardi software implementation, various system upgrades and data migration.
 
-Perhaps the projects I was working on triggered my growing interest in technology or perhaps I was subconsciously taking these on. Soon after when cryptocurrency was on a rise, I have built a mining rig from scratch as a side project. I have discovered freeCodeCamp, Codecademy and after months of self-study and networking I have decided to change my career. I have joined Makers Academy - London’s leading coding bootcamp to further develop my skills and make it happen.
+Perhaps the projects I was working on triggered my growing interest in technology or perhaps I was subconsciously taking these on. After months of self-study and networking I have decided to change my career. I have joined Makers Academy - London’s leading coding bootcamp to further develop my skills and make it happen.
 
-I am now looking for my first role as a Junior Developer and I can’t wait to work with like-minded enthusiastic and passion driven people.
+**List of tech I have recently used:**
+
+- Ruby & JavaScript
+- Sinatra, Rails & React
+- Jasmine, RSpec & Capybara,
+- PostgreSQL
+- CSS & Bootstrap
+
+## Projects
+
+|   Project    |   Description    | Language     |
+|:------------:|:----------------:|:------------:|
+|   [Acebook](https://github.com/KrzysztofBalejko/acebook-desk-warriors)    |       Building a social media platform using Ruby on Rails. Testing with RSpec / Capybara. Styled with Bootstrap & CSS for personal touch. CI/CD Travis to Heroku. Team project           |    Ruby          |
+|   [Thermostat](https://github.com/KrzysztofBalejko/thermostat)    |    Building thermostat with JavaScript, JQuery & weather API. CSS animations & Bootswatch for great UX. Complete TDD with Jasmine. Solo project              |  JavaScript            |
+|   [Chitter](https://github.com/KrzysztofBalejko/chitter-challenge)    |      Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Solo project           |     Ruby        |
+|   [Bowling](https://github.com/KrzysztofBalejko/bowling-challenge)    |      Building bowling scorecard from scratch using JavaScript, JQuery, Bootswatch and CSS. Solo project            |   JavaScript           |
+|   [Rock Paper Scissors](https://github.com/KrzysztofBalejko/rps-challenge)    |     Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. Solo project             |      Ruby        |
+|   [Instapic](https://github.com/KrzysztofBalejko/instagram-challenge)    |       Building Instagram-like app with Ruby on Rails. Continues integration & deployment pipeline - Travis/Heroku. Solo project           |    Ruby          |
+
 
 ## Skills
 
 **Quick learner**
 
-Good example would be my first programming experience on freeCodeCamp (www.freecodecamp.org) where I managed to pick up JavaScript in about a month working full time. Another example would be Ruby course on Codecademy (www.codecademy.com) which I managed to complete in half of that time. Both programs required a lot of dedication, self discipline and persistence.
+Good example would be my first programming experience on freeCodeCamp where I managed to pick up basic JavaScript in about a month working full time. I managed to complete Ruby course in half of that time. Both programs required a lot of dedication, self discipline and persistence but the biggest challenge was Makers Academy course. This immersive 4 month course pushed my limits even further.
 
 **Problem solving**
 
-I am very resourceful and I can tackle just about any problem with the help of google. My mining rig project was a great example. As I never built a computer before I needed to do the research first to find out what hardware I will need, how to put it together. Also, what software I need and how to modify it to achieve the expected results. The project was a success but to get there I needed to solve many problems, spending evenings for each at the time.
+I am very resourceful and I can tackle just about any problem with the help of google. My ethereum mining rig project was a great example. As I had never built a computer before I needed to do the research first to find out what hardware I will need, how to put it together. Also, what software I need and how to modify it to achieve the expected results. The project was a success but to get there I needed to solve many problems, spending evenings for each at the time.
 
 **Patience**
 
 Patience by the description is the capacity to accept or tolerate delay, problems, or suffering without becoming annoyed or anxious.
-I have learned patience while studing and embraced it even more while working long hours in the office. 
+I have learned patience while studying and embraced it even more while working long hours in the office.
 In return it paid off, many times with valuable experience or good relationships with junior staff I was looking after.
 
 ## Education
 
 #### Makers Academy (November 2018 to March 2019)
 
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### Katowice School of Economics (KSE/GWSH) (2005 to 2010)
 - www.gwsh.pl/katowice-school-of-economics/
@@ -60,12 +71,11 @@ Working on diversified portfolio of residential and commercial properties in UK.
 
 *Accounts Payable*
 
-Working on residential portfolio ‘Chapter’ previously ‘Nido Student Living’
+Working on residential portfolio ‘Chapter’ previously known as ‘Nido Student Living’
 
 **Starwood Hotels & Resorts Inc** (January 2014 to July 2014)
 
 *Finance Assistant*
 
-Working on London properties ‘Sheraton Grand London Park Lane’, ‘W London – Leicester Square’ and “The Park Tower Knightsbridge’.
+Working on portfolio of London properties ‘Sheraton Grand London Park Lane’, ‘W London – Leicester Square’ and “The Park Tower Knightsbridge’.
 Since then the company has been purchased by Marriott.
- 
