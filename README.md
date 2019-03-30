@@ -10,9 +10,11 @@ Perhaps the projects I was working on triggered my growing interest in technolog
 
 - Ruby & JavaScript
 - Sinatra, Rails & React
-- Jasmine, RSpec & Capybara,
-- PostgreSQL
+- Jasmine, RSpec, Capybara & Cypress
+- PostgreSQL, Cloud Firestore
 - CSS & Bootstrap
+- Travis CI
+- Firebase & Heroku
 
 ## Projects
 
