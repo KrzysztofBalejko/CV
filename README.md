@@ -10,20 +10,23 @@ Perhaps the projects I was working on triggered my growing interest in technolog
 
 - Ruby & JavaScript
 - Sinatra, Rails & React
-- Jasmine, RSpec & Capybara,
-- PostgreSQL
 - CSS & Bootstrap
+- Jasmine, Cypress, RSpec & Capybara,
+- PostgreSQL, Firestore,
+- Travis,
+- Heroku, Firebase
 
 ## Projects
 
-|   Project    |   Description    | Language     |
-|:------------:|:----------------:|:------------:|
-|   [Acebook](https://github.com/KrzysztofBalejko/acebook-desk-warriors)    |       Building a social media platform using Ruby on Rails. Testing with RSpec / Capybara. Styled with Bootstrap & CSS for personal touch. CI/CD Travis to Heroku. Team project           |    Ruby          |
-|   [Thermostat](https://github.com/KrzysztofBalejko/thermostat)    |    Building thermostat with JavaScript, JQuery & weather API. CSS animations & Bootswatch for great UX. Complete TDD with Jasmine. Solo project              |  JavaScript            |
-|   [Chitter](https://github.com/KrzysztofBalejko/chitter-challenge)    |      Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Solo project           |     Ruby        |
-|   [Bowling](https://github.com/KrzysztofBalejko/bowling-challenge)    |      Building bowling scorecard from scratch using JavaScript, JQuery, Bootswatch and CSS. Solo project            |   JavaScript           |
-|   [Rock Paper Scissors](https://github.com/KrzysztofBalejko/rps-challenge)    |     Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. Solo project             |      Ruby        |
-|   [Instapic](https://github.com/KrzysztofBalejko/instagram-challenge)    |       Building Instagram-like app with Ruby on Rails. Continues integration & deployment pipeline - Travis/Heroku. Solo project           |    Ruby          |
+|   Project    |   Description    | About      | Language        |
+|:------------:|:----------------:|:------------:|:------------:|
+|   [Fashion Finder](https://github.com/KrzysztofBalejko/fashion-finder)    |       Building e-commerce platform with React and NoSQL datbase Firestore. Testing done using Jest & Cypress. Application styled with CSS using react styled components. CI/CD Travis to Firebase. Team project           | Fashion Finder is a personal stylist in your pocket. You can browse latest fashion styles and add them to your personal lookbook.    |  JavaScript      |
+|   [Acebook](https://github.com/KrzysztofBalejko/acebook-desk-warriors)    |       Building social media platform using Ruby on Rails. Testing with RSpec / Capybara. Styled with Bootstrap & CSS for personal touch. CI/CD Travis to Heroku. Team project           |     Facebook inspired social media platform         |Ruby      | 
+|   [Thermostat](https://github.com/KrzysztofBalejko/thermostat)    |    Building thermostat with JavaScript, JQuery & weather API. CSS animations & Bootswatch for great UX. Complete TDD with Jasmine. Solo project              |       My thermostat will allow you to control the room temperature.       |JavaScript      |
+|   [Chitter](https://github.com/KrzysztofBalejko/chitter-challenge)    |      Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Solo project           |         Simple Twitter clone    |Ruby      |
+|   [Bowling](https://github.com/KrzysztofBalejko/bowling-challenge)    |      Building bowling scorecard from scratch using JavaScript, JQuery, Bootstrap / Bootswatch and CSS. Solo project            |     This bowling scorecard will help you to keep track of your score         |JavaScript      |
+|   [Rock Paper Scissors](https://github.com/KrzysztofBalejko/rps-challenge)    |     Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. Solo project             |     Rock Paper Scissors in your browser         |Ruby      |
+|   [Instapic](https://github.com/KrzysztofBalejko/instagram-challenge)    |       Building Instagram-like app with Ruby on Rails. Continues integration & deployment pipeline - Travis/Heroku. Solo project           |   Simple Instagram clone           |Ruby      |
 
 
 ## Skills
