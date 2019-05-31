@@ -80,7 +80,7 @@ Working on residential portfolio ‘Chapter’ previously known as ‘Nido Stude
 
 *Accounts Payable*
 
-Working on diversified portfolio of residential and commercial properties in UK.
+Working on portfolio of student accommodation properties in London.
 
 **Starwood Hotels & Resorts Inc - The Park Tower Hotel Knightsbridge** (January 2014 to July 2014)
 
