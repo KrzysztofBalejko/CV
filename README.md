@@ -70,14 +70,20 @@ In return it paid off, many times with valuable experience or good relationships
 
 Working on diversified portfolio of residential and commercial properties in UK.
 
-**Greystar Europe Holdings Ltd** (July 2014 to February 2016)
+**Greystar Europe Holdings Ltd** (April 2015 to February 2016)
 
 *Accounts Payable*
 
 Working on residential portfolio ‘Chapter’ previously known as ‘Nido Student Living’
 
-**Starwood Hotels & Resorts Inc** (January 2014 to July 2014)
+**Nido Management UK Ltd Ltd** (August 2014 to April 2015)
 
+*Accounts Payable*
+
+Working on diversified portfolio of residential and commercial properties in UK.
+
+**Starwood Hotels & Resorts Inc** (January 2014 to July 2014)
+*The Park Tower Hotel Knightsbridge*
 *Finance Assistant*
 
 Working on portfolio of London properties ‘Sheraton Grand London Park Lane’, ‘W London – Leicester Square’ and “The Park Tower Knightsbridge’.
