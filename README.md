@@ -82,8 +82,8 @@ Working on residential portfolio ‘Chapter’ previously known as ‘Nido Stude
 
 Working on diversified portfolio of residential and commercial properties in UK.
 
-**Starwood Hotels & Resorts Inc** (January 2014 to July 2014)
-*The Park Tower Hotel Knightsbridge*
+**Starwood Hotels & Resorts Inc - The Park Tower Hotel Knightsbridge** (January 2014 to July 2014)
+
 *Finance Assistant*
 
 Working on portfolio of London properties ‘Sheraton Grand London Park Lane’, ‘W London – Leicester Square’ and “The Park Tower Knightsbridge’.
